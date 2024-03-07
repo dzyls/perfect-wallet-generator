@@ -1,7 +1,7 @@
 {
-  "name": "hdwallet-generator",
+  "name": "perfect-wallet-generator",
   "version": "1.0.3",
-  "description": "Generates HD wallets for selected cryptocurrencies",
+  "description": "Generates perfect wallets for selected cryptocurrencies",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -24,10 +24,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Makas9/hdwallet-generator.git"
+    "url": "git@github.com:dzyls/perfect-wallet-generator.git"
   },
   "bugs": {
-    "url": "https://github.com/Makas9/hdwallet-generator/issues"
+    "url": "https://github.com/dzyls/perfect-wallet-generator/issues"
   },
-  "homepage": "https://github.com/Makas9/hdwallet-generator#readme"
+  "homepage": "https://github.com/dzyls/perfect-wallet-generator#readme"
 }
